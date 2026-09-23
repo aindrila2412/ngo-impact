@@ -191,7 +191,6 @@ def build_sections(data: dict) -> str:
     impact = data["impact"]
     contrib = data["contributions"]
     campaigns = data["campaigns"]
-    community = data["community"]
     orgs = data["organizations"]
     connection = data["connection"]
     contact = data["contact"]
@@ -255,45 +254,6 @@ def build_sections(data: dict) -> str:
   </div>
 </li>'''
         )
-
-    # Community roles + hosted sessions
-    community_cards = []
-    for i, item in enumerate(community["items"]):
-        featured = " featured" if item.get("featured") else ""
-        community_cards.append(
-            f"""<article class="community-card glass reveal{featured}" data-tilt style="--i:{i}">
-  <span class="community-num" aria-hidden="true">{esc(item["num"])}</span>
-  <h3>{esc(item["title"])}</h3>
-  <p>{esc(item["desc"])}</p>
-</article>"""
-        )
-
-    sessions_block = ""
-    sessions = community.get("sessions") or {}
-    session_items = sessions.get("items") or []
-    if session_items:
-        session_cards = []
-        for i, s in enumerate(session_items):
-            session_cards.append(
-                f"""<article class="session-card glass reveal" data-tilt style="--i:{i}">
-  <p class="session-when">{esc(s["when"])}</p>
-  <h3>{esc(s["title"])}</h3>
-  <p>{esc(s["desc"])}</p>
-</article>"""
-            )
-        note_html = (
-            f'<p class="community-sessions-note">{esc(sessions["note"])}</p>'
-            if sessions.get("note")
-            else ""
-        )
-        sessions_block = f"""
-    <div class="community-sessions">
-      <div class="subsection-head reveal">
-        <p class="section-tag">{esc(sessions.get("label", "Hosted sessions"))}</p>
-        {note_html}
-      </div>
-      <div class="session-grid">{"".join(session_cards)}</div>
-    </div>"""
 
     # Org panels
     org_panels = []
@@ -421,18 +381,6 @@ def build_sections(data: dict) -> str:
       <div class="timeline-rail" aria-hidden="true"></div>
       {"".join(timeline)}
     </ol>
-  </div>
-</section>
-
-<section class="section community" id="community" aria-labelledby="community-title">
-  <div class="container">
-    <div class="section-head reveal">
-      <p class="section-tag">{esc(community["tag"])}</p>
-      <h2 id="community-title">{esc(community["title"])}</h2>
-      <p class="section-intro">{esc(community["intro"])}</p>
-    </div>
-    <div class="community-grid">{"".join(community_cards)}</div>
-    {sessions_block}
   </div>
 </section>
 
