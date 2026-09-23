@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "title": "Community Impact · Aindrila Das",
+    "description": "Volunteer & campaign contributor with Prashraya Welfare Foundation and Hamari Pahchan NGO — libraries, donation drives, and COVID-era fundraising. Org-wide numbers from public materials.",
+    "themeColorLight": "#0f3d38",
+    "themeColorDark": "#071a18",
+    "themeStorageKey": "ad-impact-theme"
+  },
+  "person": {
+    "name": "Aindrila Das",
+    "shortName": "Aindrila",
+    "role": "Business Process Trainer",
+    "company": "Accenture",
+    "volunteerRole": "Volunteer & Campaign Contributor",
+    "email": "aindriladas24@gmail.com",
+    "linkedin": "https://linkedin.com/in/aindrila-das24",
+    "github": "https://github.com/aindrila2412",
+    "portfolio": "https://aindrila2412.github.io/portfolio/",
+    "tagline": "Education access. Community welfare. Honest contribution."
+  },
+  "hero": {
+    "eyebrow": "Volunteer · Libraries · Campaigns",
+    "title": "Community Impact",
+    "lead": "Supporting education access and welfare through library work, donation drives, and fundraising — including COVID-era campaigns — with youth-led and Delhi-based NGOs.",
+    "ctaPrimary": {
+      "label": "Impact at a glance",
+      "href": "#impact"
+    },
+    "ctaSecondary": {
+      "label": "My contributions",
+      "href": "#contributions"
+    },
+    "tags": [
+      "Libraries",
+      "Donation drives",
+      "Fundraising",
+      "COVID-era campaigns"
+    ]
+  },
+  "honesty": {
+    "banner": "Organization-wide figures below are the NGOs’ published claims from public materials. Aindrila’s role is volunteer/contributor — not individual performance KPIs. No invented rupee totals.",
+    "footer": "Personal contribution showcase. Organization-wide impact figures are from NGO public materials (prashraya.org, hamaripahchan.org, Indian Masterminds Oct 2021) and are not individual performance claims. No personal rupee totals, certificates, or invented KPIs are asserted. See NUMBERS.md for every figure and source URL."
+  },
+  "about": {
+    "tag": "About",
+    "title": "Who I am",
+    "paragraphs": [
+      "I’m Aindrila Das — a Business Process Trainer at Accenture and a community builder who believes education and dignity should reach every child.",
+      "Alongside professional work, I’ve volunteered with NGOs focused on libraries, donations, and fundraising for underprivileged children — including COVID-era book and relief campaigns.",
+      "This page showcases that contribution honestly: clear about my volunteer role, concrete about published organizational reach, and ready to grow as photos and campaign records become available."
+    ],
+    "facts": [
+      {
+        "label": "Professional",
+        "value": "Business Process Trainer @ Accenture"
+      },
+      {
+        "label": "Volunteer focus",
+        "value": "Libraries · Donations · Fundraising"
+      },
+      {
+        "label": "NGOs",
+        "value": "Prashraya · Hamari Pahchan"
+      },
+      {
+        "label": "Framing",
+        "value": "Contributor — not personal KPIs"
+      }
+    ]
+  },
+  "impact": {
+    "tag": "Published numbers",
+    "title": "Impact at a glance",
+    "intro": "Organization-wide figures from each NGO’s public materials. They describe collective reach — not Aindrila’s individual KPIs.",
+    "groups": [
+      {
+        "org": "Prashraya Welfare Foundation",
+        "aka": "Formerly Team Aashraya / Aashraya",
+        "stats": [
+          {
+            "value": "400+",
+            "label": "Free libraries",
+            "source": "prashraya.org/projects · about also cites 800+ via district partnerships",
+            "accent": false
+          },
+          {
+            "value": "20+",
+            "label": "States reach",
+            "source": "prashraya.org · book drive across 25 states/UTs",
+            "accent": false
+          },
+          {
+            "value": "10,000+",
+            "label": "Volunteers",
+            "source": "prashraya.org/about",
+            "accent": false
+          },
+          {
+            "value": "35",
+            "label": "Learning centres",
+            "source": "prashraya.org/projects",
+            "accent": false
+          },
+          {
+            "value": "9",
+            "label": "Aashraya Vidyalayas",
+            "source": "+ digital centre · prashraya.org",
+            "accent": false
+          },
+          {
+            "value": "~1 lakh",
+            "label": "Books · COVID drive",
+            "source": "Indian Masterminds, Oct 2021 · ~1,500 volunteers joined quickly",
+            "accent": true
+          }
+        ]
+      },
+      {
+        "org": "Hamari Pahchan NGO",
+        "aka": "Delhi · founded 2015",
+        "stats": [
+          {
+            "value": "2,25,000+",
+            "label": "Children reached",
+            "source": "hamaripahchan.org/more/our-impact/",
+            "accent": false
+          },
+          {
+            "value": "80,000+",
+            "label": "Women reached",
+            "source": "hamaripahchan.org/more/our-impact/",
+            "accent": false
+          },
+          {
+            "value": "1,500+",
+            "label": "COVID-19 kits",
+            "source": "hamaripahchan.org/resources/",
+            "accent": true
+          },
+          {
+            "value": "50,000+",
+            "label": "Menstrual kits",
+            "source": "Resources-page framing · hamaripahchan.org/resources/",
+            "accent": false
+          }
+        ]
+      }
+    ]
+  },
+  "contributions": {
+    "tag": "My work",
+    "title": "My contributions",
+    "intro": "Three ways I’ve shown up — in my own voice, with organizational context for scale, without inventing personal KPIs or rupee totals.",
+    "cards": [
+      {
+        "icon": "libraries",
+        "title": "Libraries",
+        "body": "I helped set up and support libraries so children in underserved communities could access books and a quiet place to learn. That work sat inside a broader movement: Prashraya (Team Aashraya) publicly cites 400+ free libraries nationwide — scaled with district partnerships in places like Narsinghpur and Moradabad — plus learning centres and Aashraya Vidyalayas.",
+        "note": "My role: volunteer/contributor supporting library efforts — not a personal library-count KPI."
+      },
+      {
+        "icon": "donations",
+        "title": "Donation drives",
+        "body": "I organized and took part in donation efforts — collecting and coordinating books, essentials, and relief materials. Context for the drives I joined: Aashraya/Prashraya’s COVID-era nationwide book collection (~1,00,000 books with ~1,500 volunteers joining quickly), and Hamari Pahchan’s published 1,500+ COVID-19 kits.",
+        "note": "My role: participant in drives — org kit/book totals are theirs, not personal tallies."
+      },
+      {
+        "icon": "fundraising",
+        "title": "Fundraising campaigns",
+        "body": "I hosted and supported fundraising campaigns for underprivileged children — including COVID-era campaigns tied to book drives and relief kits — bringing people together and helping channel support toward education and welfare. Exact rupee amounts raised are not in the NGOs’ public materials reviewed for this page.",
+        "note": "No invented ₹ totals. Personal campaign records can be added under Evidence when available."
+      }
+    ]
+  },
+  "campaigns": {
+    "tag": "Timeline",
+    "title": "Campaigns & timeline",
+    "intro": "Key org-documented moments that frame the volunteer work I took part in.",
+    "items": [
+      {
+        "when": "2015 onward",
+        "title": "Hamari Pahchan founded (Delhi)",
+        "body": "Founded by Tarun Mathur. Programs include Drishti (education), Sukhad (menstrual health), skill development, and later COVID response (corona kits + Gadgetshala). Published impact: 2,25,000+ children, 80,000+ women.",
+        "source": "hamaripahchan.org",
+        "accent": false
+      },
+      {
+        "when": "2019 → present",
+        "title": "Team Aashraya → Prashraya Welfare Foundation",
+        "body": "Founded 2019 in Tumda, Madhya Pradesh, by Priyanshu Khemariya as Team Aashraya; evolved into Prashraya. Focus: Shiksha, Shakti, Paryavaran, Chikitsa, Vastra. Public claims include 400+ free libraries, 35 learning centres, 9 Aashraya Vidyalayas (+ digital centre), 10,000+ volunteers, and 20+ states reach.",
+        "source": "prashraya.org/about · prashraya.org/projects",
+        "accent": false
+      },
+      {
+        "when": "COVID / lockdown era · ~2020–2021",
+        "title": "Nationwide book collection (Aashraya / Prashraya)",
+        "body": "Indian Masterminds (Oct 2021) reported ~1,00,000 books collected in days, with ~1,500 volunteers joining quickly; the drive expanded pan-India across ~25 states/UTs for rural libraries, schools, and orphanages. The team also contributed actively during COVID-19 across Shiksha, Chikitsa, and related pillars.",
+        "source": "Indian Masterminds, Oct 2021 · prashraya.org",
+        "accent": true
+      },
+      {
+        "when": "COVID era",
+        "title": "COVID relief kits (Hamari Pahchan)",
+        "body": "Hamari Pahchan’s public resources cite 1,500+ COVID-19 kits distributed, alongside broader resource programs (including menstrual kits framed at 50,000+ on the resources page).",
+        "source": "hamaripahchan.org/resources/",
+        "accent": true
+      },
+      {
+        "when": "Ongoing",
+        "title": "Library expansion & education access",
+        "body": "Continued growth of free libraries and learning centres — including partnerships with district administrations (e.g. Narsinghpur & Moradabad). About-page language also cites 800+ libraries established/supported via district partnerships; this showcase prefers the primary 400+ free libraries figure from projects.",
+        "source": "prashraya.org/projects · prashraya.org/about",
+        "accent": false
+      }
+    ]
+  },
+  "organizations": {
+    "tag": "Partners",
+    "title": "Organizations",
+    "intro": "Background on the NGOs I’ve worked with. Numbers are from each organization’s public materials — organizational reach, not individual KPIs.",
+    "panels": [
+      {
+        "name": "Prashraya Welfare Foundation",
+        "aka": "Formerly Team Aashraya / Aashraya",
+        "url": "https://prashraya.org",
+        "urlLabel": "Visit prashraya.org",
+        "body": "A youth-led Section 8 non-profit that began in 2019 as Team Aashraya in Tumda, Madhya Pradesh, and evolved into Prashraya Welfare Foundation. Focus areas: Shiksha, Shakti, Paryavaran, Chikitsa, and Vastra. Founded by Priyanshu Khemariya.",
+        "stats": [
+          "400+ free libraries (primary; about also cites 800+ via partnerships)",
+          "20+ states · book drive across ~25 states/UTs",
+          "10,000+ volunteers",
+          "35 learning centres · 9 Aashraya Vidyalayas (+ digital)",
+          "~1,00,000 books in COVID-era nationwide drive · ~1,500 volunteers joined quickly"
+        ],
+        "note": "Organizational claims from public materials — not personal metrics."
+      },
+      {
+        "name": "Hamari Pahchan NGO",
+        "aka": "Delhi · founded 2015 · Tarun Mathur",
+        "url": "https://hamaripahchan.org",
+        "urlLabel": "Visit hamaripahchan.org",
+        "body": "A Delhi-based NGO working across education, skill development, hunger relief, menstrual health, and community programs. Flagship initiatives include Drishti (education), Sukhad (menstrual), skill development, and COVID response (corona kits + Gadgetshala).",
+        "stats": [
+          "2,25,000+ children reached",
+          "80,000+ women reached",
+          "1,500+ COVID-19 kits",
+          "50,000+ menstrual kits (resources-page framing)"
+        ],
+        "note": "Organizational claims from public materials — not personal metrics."
+      }
+    ]
+  },
+  "connection": {
+    "tag": "Thread",
+    "title": "How this work connects",
+    "paragraphs": [
+      "Libraries without books, or children without the means to stay in school, leave gaps that no single classroom can fill. My volunteer work — supporting libraries inside a 400+ free-library movement, organizing donations and COVID-era drives, and hosting fundraising campaigns — was aimed at one thread: education access for underprivileged children.",
+      "Each activity feeds the next: spaces to learn, materials to fill them, and community support to keep those efforts alive. That’s the impact story I can own honestly — contribution alongside published org reach, not inflated certificates."
+    ]
+  },
+  "evidence": {
+    "tag": "Proof",
+    "title": "Evidence",
+    "intro": "Placeholders for materials I’ll add when available. Nothing fabricated. Exact ₹ / donation money totals for COVID fundraising were not found in the public NGO materials used for this page.",
+    "slots": [
+      {
+        "title": "Photo gallery",
+        "status": "Coming soon"
+      },
+      {
+        "title": "Letter of appreciation",
+        "status": "Add when available"
+      },
+      {
+        "title": "Campaign records",
+        "status": "Add when available"
+      },
+      {
+        "title": "Donation / campaign rupee totals",
+        "status": "Add when available — not in public NGO materials reviewed",
+        "highlight": true
+      }
+    ]
+  },
+  "contact": {
+    "tag": "Reach out",
+    "title": "Let’s connect",
+    "blurb": "Happy to share more about this volunteer work in interviews or applications.",
+    "links": [
+      {
+        "label": "Email",
+        "value": "aindriladas24@gmail.com",
+        "href": "mailto:aindriladas24@gmail.com"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/aindrila-das24",
+        "href": "https://linkedin.com/in/aindrila-das24"
+      },
+      {
+        "label": "GitHub",
+        "value": "github.com/aindrila2412",
+        "href": "https://github.com/aindrila2412"
+      },
+      {
+        "label": "Portfolio",
+        "value": "aindrila2412.github.io/portfolio",
+        "href": "https://aindrila2412.github.io/portfolio/"
+      }
+    ]
+  },
+  "nav": [
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Impact",
+      "href": "#impact"
+    },
+    {
+      "label": "Work",
+      "href": "#contributions"
+    },
+    {
+      "label": "Campaigns",
+      "href": "#campaigns"
+    },
+    {
+      "label": "Orgs",
+      "href": "#organizations"
+    },
+    {
+      "label": "Evidence",
+      "href": "#evidence"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact",
+      "cta": true
+    }
+  ]
+}
