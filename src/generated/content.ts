@@ -3,8 +3,8 @@ export const content = {
   "meta": {
     "title": "Community Impact · Aindrila Das",
     "description": "Volunteer & campaign contributor with Prashraya Welfare Foundation and Hamari Pahchan NGO — libraries, donation drives, and COVID-era fundraising. Org-wide numbers from public materials.",
-    "themeColorLight": "#0f3d38",
-    "themeColorDark": "#071a18",
+    "themeColorLight": "#0c1e36",
+    "themeColorDark": "#071022",
     "themeStorageKey": "ad-impact-theme"
   },
   "person": {
@@ -48,7 +48,7 @@ export const content = {
     "paragraphs": [
       "I’m Aindrila Das — a Business Process Trainer at Accenture and a community builder who believes education and dignity should reach every child.",
       "Alongside professional work, I’ve volunteered with NGOs focused on libraries, donations, and fundraising for underprivileged children — including COVID-era book and relief campaigns.",
-      "This page showcases that contribution honestly: clear about my volunteer role, concrete about published organizational reach, and ready to grow as photos and campaign records become available."
+      "This page showcases that contribution honestly: clear about my volunteer role, concrete about published organizational reach, framed carefully so organizational reach stays distinct from personal contribution."
     ],
     "facts": [
       {
@@ -168,8 +168,7 @@ export const content = {
       {
         "icon": "fundraising",
         "title": "Fundraising campaigns",
-        "body": "I hosted and supported fundraising campaigns for underprivileged children — including COVID-era campaigns tied to book drives and relief kits — bringing people together and helping channel support toward education and welfare. Exact rupee amounts raised are not in the NGOs’ public materials reviewed for this page.",
-        "note": "No invented ₹ totals. Personal campaign records can be added under Evidence when available."
+        "body": "I hosted and supported fundraising campaigns for underprivileged children — including COVID-era campaigns tied to book drives and relief kits — bringing people together and helping channel support toward education and welfare."
       }
     ]
   },
@@ -259,30 +258,6 @@ export const content = {
       "Each activity feeds the next: spaces to learn, materials to fill them, and community support to keep those efforts alive. That’s the impact story I can own honestly — contribution alongside published org reach, not inflated certificates."
     ]
   },
-  "evidence": {
-    "tag": "Proof",
-    "title": "Evidence",
-    "intro": "Placeholders for materials I’ll add when available. Nothing fabricated. Exact ₹ / donation money totals for COVID fundraising were not found in the public NGO materials used for this page.",
-    "slots": [
-      {
-        "title": "Photo gallery",
-        "status": "Coming soon"
-      },
-      {
-        "title": "Letter of appreciation",
-        "status": "Add when available"
-      },
-      {
-        "title": "Campaign records",
-        "status": "Add when available"
-      },
-      {
-        "title": "Donation / campaign rupee totals",
-        "status": "Add when available — not in public NGO materials reviewed",
-        "highlight": true
-      }
-    ]
-  },
   "contact": {
     "tag": "Reach out",
     "title": "Let’s connect",
@@ -290,25 +265,26 @@ export const content = {
     "links": [
       {
         "label": "Email",
-        "value": "aindriladas24@gmail.com",
+        "value": "Email",
         "href": "mailto:aindriladas24@gmail.com"
       },
       {
         "label": "LinkedIn",
-        "value": "linkedin.com/in/aindrila-das24",
+        "value": "LinkedIn",
         "href": "https://linkedin.com/in/aindrila-das24"
       },
       {
         "label": "GitHub",
-        "value": "github.com/aindrila2412",
+        "value": "GitHub",
         "href": "https://github.com/aindrila2412"
       },
       {
         "label": "Portfolio",
-        "value": "aindrila2412.github.io/portfolio",
+        "value": "Portfolio",
         "href": "https://aindrila2412.github.io/portfolio/"
       }
-    ]
+    ],
+    "display": "buttons"
   },
   "nav": [
     {
@@ -330,10 +306,6 @@ export const content = {
     {
       "label": "Orgs",
       "href": "#organizations"
-    },
-    {
-      "label": "Evidence",
-      "href": "#evidence"
     },
     {
       "label": "Contact",
