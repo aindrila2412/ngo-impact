@@ -303,6 +303,10 @@
       "href": "#campaigns"
     },
     {
+      "label": "Community",
+      "href": "#community"
+    },
+    {
       "label": "Orgs",
       "href": "#organizations"
     },
@@ -311,5 +315,76 @@
       "href": "#contact",
       "cta": true
     }
-  ]
+  ],
+  "community": {
+    "tag": "Community",
+    "title": "Community",
+    "intro": "Beyond NGO volunteering — sessions, webinars, conferences, and leadership roles that grow developer communities. Roles from the portfolio; named hosted events from public LinkedIn activity.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Co-organizer · Google Developer Groups Kolkata",
+        "desc": "Organized DevFest Kolkata, one of the biggest developer conferences in Eastern India.",
+        "featured": true
+      },
+      {
+        "num": "02",
+        "title": "Google Cloud Champion Innovator / Facilitator",
+        "desc": "Recognized among the top 173 champions globally; contributed through events, YouTube content, and open source.",
+        "featured": false
+      },
+      {
+        "num": "03",
+        "title": "Microsoft Learn Gold Student Ambassador",
+        "desc": "Microsoft Learn Student Ambassador (Jan 2021) and Gold Ambassador (Feb 2022); led workshops and community initiatives.",
+        "featured": false
+      },
+      {
+        "num": "04",
+        "title": "Lead · Google Developer Student Clubs",
+        "desc": "Established the first GDSC on campus and taught 1,000+ students through workshops and study jams.",
+        "featured": true
+      },
+      {
+        "num": "05",
+        "title": "Postman Student Leader",
+        "desc": "Led practical API workshops for peers.",
+        "featured": false
+      },
+      {
+        "num": "06",
+        "title": "Microsoft Azure Hackathon Judge",
+        "desc": "Judged TechTogether hackathons in Boston, Atlanta, and Chicago with Microsoft Advocacy.",
+        "featured": false
+      },
+      {
+        "num": "07",
+        "title": "Women Techmakers Ambassador",
+        "desc": "Part of a global network uplifting women in technology.",
+        "featured": false
+      },
+      {
+        "num": "08",
+        "title": "Road to GDE Mentee",
+        "desc": "Selected among the top 42 from thousands of applications.",
+        "featured": false
+      }
+    ],
+    "sessions": {
+      "label": "Hosted sessions & webinars",
+      "note": "Named events from public LinkedIn activity — not an exhaustive speaking résumé.",
+      "items": [
+        {
+          "title": "Flutter Festivals",
+          "when": "Mar 9–13, 2022 · Online",
+          "desc": "Hosted by Aindrila in collaboration with 30+ GDSCs and Google Developer Experts as guest speakers — Flutter training, challenges, and community projects; ~300–305 attendees/registrations."
+        },
+        {
+          "title": "Being a Program Manager (All You Need to Know)",
+          "when": "Dec 3, 2021 · Online",
+          "desc": "Hosted by Aindrila (Beta Student Ambassador); co-host Debasmita Das; special guest Sarah Williams (Microsoft Learn Student Ambassadors); ~519 attendees."
+        }
+      ]
+    }
+  }
 }

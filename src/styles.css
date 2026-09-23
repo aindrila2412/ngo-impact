@@ -865,6 +865,103 @@ body.has-pointer .cursor-glow { opacity: 1; }
 .footer-row a { color: var(--coral-soft); }
 .footer-row a:hover { color: #fff; }
 
+
+/* Community */
+.community { background: linear-gradient(180deg, var(--cream) 0%, var(--paper) 100%); }
+[data-theme="dark"] .community {
+  background: linear-gradient(180deg, var(--sand) 0%, var(--paper) 100%);
+}
+.community-grid {
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 720px) {
+  .community-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 1020px) {
+  .community-grid { grid-template-columns: repeat(4, 1fr); }
+}
+.community-card {
+  border-radius: var(--radius);
+  padding: 1.45rem 1.3rem 1.35rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  position: relative;
+  min-height: 10.5rem;
+}
+.community-card.featured {
+  background: linear-gradient(160deg, rgba(122, 46, 69, 0.12), rgba(196, 163, 90, 0.1));
+  border-color: rgba(196, 163, 90, 0.28);
+}
+[data-theme="dark"] .community-card.featured {
+  background: linear-gradient(160deg, rgba(122, 46, 69, 0.28), rgba(212, 181, 106, 0.1));
+}
+.community-num {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--coral);
+  margin-bottom: 0.55rem;
+}
+.community-card h3 {
+  margin: 0 0 0.55rem;
+  font-size: 1.02rem;
+  line-height: 1.35;
+  color: var(--ink);
+}
+.community-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+.community-sessions {
+  margin-top: 2.75rem;
+}
+.subsection-head {
+  margin-bottom: 1.25rem;
+  max-width: 42rem;
+}
+.community-sessions-note {
+  margin: 0.35rem 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+.session-grid {
+  display: grid;
+  gap: 1.15rem;
+}
+@media (min-width: 800px) {
+  .session-grid { grid-template-columns: repeat(2, 1fr); }
+}
+.session-card {
+  border-radius: var(--radius);
+  padding: 1.5rem 1.4rem;
+  border-left: 3px solid var(--coral);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.session-when {
+  margin: 0 0 0.45rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--coral-deep);
+}
+[data-theme="dark"] .session-when { color: var(--coral-soft); }
+.session-card h3 {
+  margin: 0 0 0.55rem;
+  font-size: 1.08rem;
+  line-height: 1.35;
+}
+.session-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.93rem;
+}
+
 /* Mobile nav */
 @media (max-width: 900px) {
   .menu-toggle { display: flex; }
